@@ -1,0 +1,10 @@
+[2023-05-05 18:01:56,020] 23 root - INFO - enterede the data ingestion method or config
+[2023-05-05 18:01:56,025] 26 root - INFO - read data as dataframe
+[2023-05-05 18:01:56,030] 34 root - INFO - train test split initiated
+[2023-05-05 18:01:56,041] 42 root - INFO - data ingestion completed
+[2023-05-05 18:01:56,057] 69 root - INFO - reading train and test data completed
+[2023-05-05 18:01:56,057] 71 root - INFO - obtaining preprocessor object
+[2023-05-05 18:01:56,057] 38 root - INFO - numerical colummns scaling completed
+[2023-05-05 18:01:56,057] 48 root - INFO - categorical columns encoding completed
+[2023-05-05 18:01:56,057] 86 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[2023-05-05 18:01:56,089] 94 root - INFO - saving preprocessor object
